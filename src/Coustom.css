@@ -1,0 +1,219 @@
+.div-navbar ul li {
+    list-style: none;
+  }
+
+  .div-navbar ul li {
+    display: inline;
+    margin: 7px;
+    font-size: 18px;
+    font-weight: 700;
+    font-style: oblique;
+}
+
+/* start css for kapiva singal pdf page */
+.hero-text {
+  background-image: url(http://localhost:3000/img/kapivaBg.png);
+  height: 490px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1% 0% 0% 0%;
+}
+
+img.img-kapiva {
+  margin-top: 12%;
+}
+
+h1.h1-4_balance {
+  color: #ffffff;
+  letter-spacing: 30px;
+}
+
+.div-images1 {
+  border: 1px solid;
+  border-radius: 35px 35px 35px 35px;
+}
+
+span.span-contain1 {
+
+  float: left;
+  font-weight: 600;
+  text-align: left;
+  
+}
+
+h2.h2-contain {
+  color: #151414db;
+  font-weight: 600;
+}
+
+.span-call-icon{
+  border: 1px solid;
+  padding: 7px 7px 0px 5px;
+  position: absolute;
+  border-radius: 22px 22px 22px 22px;
+  background-color: black;
+  color: aliceblue;
+}
+
+h1.h3-socond-contain {
+  font-size: 42px;
+  font-weight: 700;
+  color: #151414db;
+  letter-spacing: normal;
+}
+
+span.span-secondpage-cardinfo {
+  font-weight: 600;
+  float: left;
+  text-align: left;
+  margin-bottom: 6%;
+}
+
+span.span-secondpage-cardinfo1 {
+  float: left;
+  text-align: left;
+  margin-bottom: 6%;
+}
+
+span.span-secondpage-cardinfo2 {
+  float: left;
+  text-align: left;
+  margin-bottom: 6%;
+  font-weight: 700;
+}
+.span-secondpage-cardinfo3 {
+  background-color: #cacaca;
+  color: #fff;
+  font-size: 14px;
+  padding: 6% 0% 6% 0%;
+}
+.div-secondpage-card {
+  border: 1px solid;
+  border-radius: 35px 35px 35px 35px;
+}
+
+h1.h3-third-contain {
+  font-size: 42px;
+  font-weight: 700;
+  color: #151414db;
+  letter-spacing: normal;
+  font-weight: 700;
+  color: #151414db;
+}
+
+h1.h1_ritals {
+  position: absolute;
+  margin-left: 11%;
+  margin-top: 4%;
+  color: #fff;
+  font-weight: 600;
+  font-style: oblique;
+  text-align: center;
+}
+
+.div_thirdCart_cfild {
+  position: relative;
+  bottom: 33%;
+  /* background: #fff; */
+  /* width: 20%; */
+  /* padding: 0px 0px 2px 119px; */
+  /* left: 25%; */
+  color: #fff;
+}
+
+h1.h1_Customers_para {
+  color: #151414db;
+  font-weight: 600;
+}
+
+.div_thiredPage_testimonial {
+  width: 99%;
+}
+
+h1.h1-four-contain {
+  letter-spacing: 50px;
+  color: #151414db;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 25px;
+  text-align: center;
+}
+
+.div_forbalance-list ul li {
+  font-weight: 600;
+  text-align: left;
+  list-style: none;
+  margin-left: 40%;
+  line-height: 60px;
+}
+
+h1.h1-fourthpage-contain {
+  color: #ffffff;
+  letter-spacing: 2px;
+  margin-top: 5%;
+}
+
+button.btn-download {
+  padding: 2% 7% 2% 7%;
+  font-size: 19px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 25px 25px 25px 25px;
+}
+
+button.btn-download {
+  padding: 2% 3% 2% 3%;
+  font-size: 19px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 25px 25px 25px 25px;
+  margin-top: 3%;
+}
+
+/* testimonial add csss  */
+ 
+ 
+/* end css testimonial */
+
+
+/* h1.h1-4_balance {
+  color: #ffffff;
+  padding: 14% 0% 0% 0%;
+  font-size: 63px;
+  letter-spacing: 81px;
+  font-weight: 500;
+  position: relative;
+  margin-left: 10%;
+} */
+
+
+/* .div-Img {
+  background-image: url(http://localhost:3000/img/logo_2.png);
+    height: 23%;
+    width: 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 40%;
+    position: relative;
+    top: 25%;
+
+}  */
+
+
+
+/* span.span-contain1 {
+  font-size: 20px;
+  color: #221d1d;
+  font-weight: 600;
+  float: left;
+  text-align: left;
+}
+
+.MuiPaper-root.card1 {
+  border-style: dotted;
+  border-radius: 18px 18px 18px 18px;
+} */
+
